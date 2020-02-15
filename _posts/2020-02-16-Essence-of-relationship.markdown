@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Essence of relationship"
-date:   2020-02-1516 00:02:23 +0545
+date:   2020-02-16 00:02:23 +0545
 categories: post
 ---
 
