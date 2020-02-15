@@ -16,4 +16,5 @@ Head over to its github repository and clone it from there.
 
 
 ##### Lastly, the flyer that I designed for that event.
-![event flyer](https://github.com/roshanlc/crash_course_on_git_and_github/blob/master/flyer.png)
+![event flyer](https://raw.githubusercontent.com/roshanlc/crash_course_on_git_and_github/master/flyer.png)
+
