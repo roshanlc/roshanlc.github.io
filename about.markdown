@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-I am a computer engineering student who is intrested in a lot of things.
+I am a computer engineering student who is interested in a lot of things.
 I hope to make posts on just about anything.
 
 I am other social media as well.
