@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: roshanlc.github.io
+Token: 86fc570614a9f27c5d74b53f2e24b7b684a4ef73cbe2633c04dcc6754cd41507
