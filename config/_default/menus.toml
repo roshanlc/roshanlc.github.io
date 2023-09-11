@@ -1,0 +1,31 @@
+[[main]]
+    # Top-level menu entry
+    identifier = "projects"
+    url = "/projects/"
+    name="Projects"
+    weight = 1
+
+[[main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+[[main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+    
+[[main]]
+    identifier = "resume"
+    name = "Resume"
+    url =   "https://tiny.cc/readmyresume101"
+    weight = 5
