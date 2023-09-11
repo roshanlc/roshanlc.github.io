@@ -9,6 +9,7 @@ resume_url = "https://tiny.cc/readmyresume101"
 
 ### Content
 favicon = true # Enable favicon, add your favicon files to /static/ directory
+favicon_url = "https://raw.githubusercontent.com/roshanlc/roshanlc.github.io/master/static/favicon.ico"
 avatar = 'avatar.jpeg' # Custom avatar image in /assets/
 #grayscale_avatar = true # Add a grayscale filter to the avatar image
 author = 'Roshan Lamichhane' # Default author for <head> meta
