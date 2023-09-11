@@ -19,8 +19,7 @@ label_drafts = true # Add a label indicator next to the title of any built draft
 
 
 ### Contact form
-contact_endpoint_url = "http://localhost:9000/contact"
-# "https://send.pageclip.co/8F7TRVClsu64ZcCLFyjUR5RNC9W3Fe8m/contact-form"
+contact_endpoint_url = "https://send.pageclip.co/8F7TRVClsu64ZcCLFyjUR5RNC9W3Fe8m/contact-form"
 
 # Customize newsletter text
 newsletter_header = "This is my custom newsletter header with a captivating title."
