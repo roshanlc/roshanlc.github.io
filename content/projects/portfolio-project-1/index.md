@@ -6,23 +6,23 @@ description: Portfolio Project 1 is my first portfolio project.
 slug: portfolio-project-1
 author: John Doe
 
-draft: false
+draft: true
 date: 2019-02-20T03:52:30-05:00
-lastmod: 
-expiryDate: 
-publishDate: 
+lastmod:
+expiryDate:
+publishDate:
 
 feature_image: web-design.jpg
 feature_image_alt: Web design
 
-project types: 
-    - Personal
+project types:
+  - Personal
 
 techstack:
-    - Hugo
-    - HTML/CSS
-    - JavaScript
-    - Netlify
+  - Hugo
+  - HTML/CSS
+  - JavaScript
+  - Netlify
 live_url: https://hugo-liftoff.netlify.app
 source_url: https://github.com/wjh18/hugo-liftoff
 ---
@@ -34,9 +34,13 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 The following HTML `<h2>`—`<h6>` elements represent five levels of section headings. `<h2>` is the highest section level you should use in markdown while `<h6>` is the lowest. `<h1>` should be reserved for the page title.
 
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 ## Paragraph
@@ -52,7 +56,7 @@ The blockquote element represents content that is quoted from another source, op
 ### Blockquote without attribution
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+> **Note** that you can use _Markdown syntax_ within a blockquote.
 
 ### Blockquote with attribution
 
@@ -65,31 +69,31 @@ The blockquote element represents content that is quoted from another source, op
 
 Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
+| Name  | Age |
+| ----- | --- |
+| Bob   | 27  |
+| Alice | 23  |
 
 ### Inline Markdown within tables
 
 | Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
+| --------- | -------- | ------ |
+| _italics_ | **bold** | `code` |
 
 ## Code Blocks
 
 ### Code block with backticks
 
 ```html
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <title>Example HTML5 Document</title>
+  </head>
+  <body>
+    <p>Test</p>
+  </body>
 </html>
 ```
 
@@ -109,6 +113,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 ### Code block with Hugo's internal highlight shortcode
 
 {{< highlight html >}}
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -131,19 +136,19 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 ### Unordered List
 
-* List item
-* Another item
-* And another item
+- List item
+- Another item
+- And another item
 
 ### Nested list
 
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
+- Fruit
+  - Apple
+  - Orange
+  - Banana
+- Dairy
+  - Milk
+  - Cheese
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
