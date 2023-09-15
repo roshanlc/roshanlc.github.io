@@ -1,7 +1,7 @@
 ---
 title: Khabar Haru (News Aggregator)
 seo_title: news aggregator
-summary: A news aggregator for Nepali news.
+summary: A news aggregator for Nepali news. Removes the fuss of visiting ad-ridden news site, social media for checking news headlines.
 description: A basic news agggregator that scrapes from Nepali news portals and serves them via a HTTP webserver. Written in go.
 slug: khabar-haru
 author: Roshan Lamichhane
@@ -22,7 +22,7 @@ techstack:
   - Go
 
 live_url: https://khabar-haru.cyclic.app/
-source_url: https://github.com/roshanlc/news-aggregator
+source_url: https://github.com/roshanlc/khabar-haru
 
 newsletter: false
 ---
@@ -31,20 +31,15 @@ newsletter: false
 
 > Khabar means `News` in Nepali.
 
-It is a basic news agggregator that scrapes from Nepali news portals and serves them via a HTTP webserver. It scrapes the news sites in a regular interval and stores them internally.
+It is a news agggregator that scrapes from Nepali news portals and serves them via a HTTP webserver. It scrapes the news sites in an hourly interval and stores them internally.
 
 ### Stack
 
 - Go
+- Go Templating
 
 ### Features
 
 - Supports Ekantipur, BBC Nepali news and The Kathmandu Post
 - Shows Daily Petroleum Prices
-
-### To-Do
-
-- [ ] Daily gold and silver prices
-- [ ] Daily currency exchange rates
-- [ ] Better responsive layout
-- [ ] More news sites
+- Easily Deployable (single binary)
