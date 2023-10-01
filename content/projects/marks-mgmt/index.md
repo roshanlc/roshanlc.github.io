@@ -16,8 +16,7 @@ feature_image: admin-dashboard.png
 feature_image_alt: Admin's Dashboard
 
 project types:
-  - Backend
-  - Frontend
+  - FullStack
 
 techstack:
   - Node(Express)
