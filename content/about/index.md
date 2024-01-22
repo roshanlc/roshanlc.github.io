@@ -25,7 +25,7 @@ I recently completed my Bachelors in Computer Engineering at Pokhara University.
 
 ## Resume
 
-You can view my resume [here](https://tiny.cc/readmyresume101).
+You can view my resume [here](https://drive.google.com/file/d/1mOOtYnwJfz8ft4pBEt-Ay3t2-yCBJTWV/view?usp=drive_link).
 
 ## Contact me
 
