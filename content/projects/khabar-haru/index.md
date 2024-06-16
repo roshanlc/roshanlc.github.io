@@ -21,7 +21,7 @@ project types:
 techstack:
   - Go
 
-live_url: https://khabar-haru.cyclic.app/
+live_url: https://projects.roshan-lamichhane.com.np/khabar-haru
 source_url: https://github.com/roshanlc/khabar-haru
 
 newsletter: false
