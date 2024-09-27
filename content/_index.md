@@ -1,6 +1,6 @@
 ---
 title: Hi There!
-subtitle: I am Roshan Lamichhane. I am interested in backend systems, microservices, distributed computing and more.
+subtitle: I am Roshan Lamichhane. I am currently working with Kubernetes, Terraform, Go and Node.
 seo_title: Roshan Lamichhane
 
 primary_cta_page: "about"
